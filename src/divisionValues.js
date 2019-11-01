@@ -1,0 +1,1 @@
+export default ['div1', 'div2', 'div3', 'div4', 'div5', 'div6', ]

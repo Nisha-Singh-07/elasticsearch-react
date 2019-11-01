@@ -1,0 +1,1 @@
+export default ['store1', 'store2', 'store3', 'store4', 'store5', 'store6', 'store7', ]
