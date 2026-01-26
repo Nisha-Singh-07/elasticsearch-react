@@ -6,7 +6,7 @@
     "@webscopeio/react-textarea-autocomplete": "^4.6.1",
     "get-input-selection": "^1.1.4",
     "iohook": "^0.6.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.23",
     "node-key-sender": "^1.0.11",
     "prop-types": "^15.7.2",
     "react": "^16.9.0",
